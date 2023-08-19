@@ -3,7 +3,10 @@ body{
   }
   
   #title{
-    background-color: #F8AC1B;
+    background-image: url(harimau.jpg);
+    background-size: cover;
+    background-color: transparent;
+    /* background-color: #F8AC1B; */
     color: #fff;
   }
   
@@ -76,7 +79,7 @@ body{
   }
   
   .nav-colour{
-    color: #ffffff;
+    color: #008D97;
   }
   
   
