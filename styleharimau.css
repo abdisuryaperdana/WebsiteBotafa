@@ -3,8 +3,9 @@ body{
   }
   
   #title{
-    background-color: #F8AC1B;
-    color: #fff;
+    background-image: url(backroundpage1.jpg);
+    background-color: #ffffff;
+    color: #ffffff;
   }
   
   
@@ -31,7 +32,7 @@ body{
   
   a:hover {
     text-decoration: none;
-    color: #ffffff;
+    color: #008D97;
   }
   
   @media (max-width: 600px) {
@@ -44,7 +45,7 @@ body{
     font-family: 'Ubuntu';
     font-size: 2.5rem;
     font-weight: bold;
-    color: #008D97;
+    color: #ffffff;
   
    }
   
@@ -57,7 +58,7 @@ body{
   .navbar {
         background-color:none;
       padding-bottom: 2%;
-      color: #008D97;
+      color: #ffffff;
       
   }
   
@@ -71,7 +72,7 @@ body{
   }
   
   .nav-link {
-    color: #008D97;
+    color: #ffffff;
     font-weight: lighter;
   }
   

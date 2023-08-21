@@ -3,7 +3,7 @@ body{
   }
   
   #title{
-    background-image: url(harimau.jpg);
+    background-image: url(backroundpage1.jpg);
     background-size: cover;
     background-color: transparent;
     /* background-color: #F8AC1B; */
@@ -34,7 +34,7 @@ body{
   
   a:hover {
     text-decoration: none;
-    color: #ffffff;
+    color: #008D97;
   }
   
   @media (max-width: 600px) {
@@ -79,7 +79,7 @@ body{
   }
   
   .nav-colour{
-    color: #008D97;
+    color: #ffffff;
   }
   
   
