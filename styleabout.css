@@ -489,3 +489,38 @@ body{
     justify-content: center;
     gap: 1em;
   }
+
+
+/*  */
+/*  */
+.cardvisi {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+.cookieHeading {
+  font-size: 2em;
+  font-weight: 1000;
+  color: #008D97;
+}
+
+.cookieDescription {
+  margin-top: -1em;
+  text-align: center;
+  font-size: 1em;
+  font-weight: 600;
+  color: #008D97;
+}
+
+.cookieDescription1 {
+  margin-top: -1em;
+  text-align: left;
+  font-size: 1em;
+  font-weight: 600;
+  color: #008D97;
+}
+
